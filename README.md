@@ -1,6 +1,3 @@
-
-
-
 - 👋 Ollo, I’m Siyabonga Gift Kubeka - [@XSiya](https://github.com/XSiya)
 - 👀 I am interested in exploring new and innovative ways to create mobile and web applications using my expertise in Flutter and Angular. As a developer who loves coding and inventing things, I am constantly looking for new challenges to tackle and problems to solve. Whether it's designing intuitive user interfaces or developing efficient algorithms, I enjoy using my skills to create apps that are both functional and visually appealing. With a passion for technology and a keen eye for detail, I am excited to take on new projects and bring fresh ideas to the table.
 
