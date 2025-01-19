@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning : 
   - Cloud computing platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.
-  - Mobile app development using popular frameworks such as React Native, Flutter, or Xamarin.
+  - Mobile app development using popular frameworks such as React Native, Flutter, or .NET MAUI
   - Progressive web app development to build fast and responsive web apps.
   - Full-stack web development using popular frameworks such as Node.js, Express.js, React, and Angular.
   - Containers and container orchestration tools such as Docker and Kubernetes.
