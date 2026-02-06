@@ -1,24 +1,68 @@
-- 👋 Ollo, I’m Siyabonga Gift Kubeka - [@XSiya](https://github.com/XSiya)
-- 👀 I am interested in exploring new and innovative ways to create mobile and web applications using my expertise in Flutter and Angular. As a developer who loves coding and inventing things, I am constantly looking for new challenges to tackle and problems to solve. Whether it's designing intuitive user interfaces or developing efficient algorithms, I enjoy using my skills to create apps that are both functional and visually appealing. With a passion for technology and a keen eye for detail, I am excited to take on new projects and bring fresh ideas to the table.
+# llo, I’m Mushin (@XSiya)
 
-- 🌱 I’m currently learning : 
-  - Cloud computing platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.
-  - Mobile app development using popular frameworks such as React Native, Flutter, or .NET MAUI
-  - Progressive web app development to build fast and responsive web apps.
-  - Full-stack web development using popular frameworks such as Node.js, Express.js, React, and Angular.
-  - Containers and container orchestration tools such as Docker and Kubernetes.
-  - Serverless computing using platforms like AWS Lambda or Azure Functions.
-  - Machine learning and artificial intelligence for data analysis and prediction.
-  - Blockchain technology and smart contract development.
-  - Cybersecurity and best practices for secure coding.
-  1- Agile software development methodologies for effective project management and collaboration.
-- 💞️ I'm looking to collaborate on projects that have the potential to make a positive impact on people's lives through innovation and technology. As a developer who is passionate about creating solutions that solve real-world problems, I am always excited to work with like-minded individuals and teams who share the same vision. Whether it's developing an app that simplifies daily tasks or creating software that improves accessibility for people with disabilities, I believe that technology can be a powerful tool for positive change. With my skills in coding and problem-solving, I am eager to collaborate on projects that have the potential to make a difference and improve people's lives.
-- 📫 How to reach me : Email: [siyabonga@existence-klcorp.com](mailto:siyabonga@existence-klcorp.com) or Text : [+27659192291](callto:+27659192291)
+Founder • Builder • Engineer
 
+I’m a **technical founder** focused on building scalable digital products and AI-driven platforms. My work sits at the intersection of **software engineering, product strategy, and automation**, with a strong bias toward shipping real things that create leverage. My journey started with writing code; now I build the teams, systems, and vision behind the code.
 
-> Note to self : You are still alive, act like it.
+I don’t just write code — I design systems, validate ideas, and turn concepts into products people actually use.
 
-<!---
-XSiya/XSiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## What I’m Working On
+
+- Building and scaling **founder-led products** with a strong focus on:
+  - High-converting landing pages
+  - Distribution-first product thinking
+  - Automation and intelligent systems
+- Developing **AI-assisted platforms** that reduce operational friction and accelerate execution
+- Architecting **mobile, web, and backend systems** that are production-grade from day one
+
+---
+
+## Core Focus Areas
+
+- **Product & Startup Engineering**
+  - MVP → PMF → Scale
+  - Rapid iteration, feedback loops, analytics-driven decisions
+
+- **Mobile & Web Platforms**
+  - Flutter, Angular, modern frontend stacks
+  - Performance, UX, and maintainability
+
+- **Cloud & Infrastructure**
+  - AWS, Azure, GCP
+  - Serverless, containers, CI/CD
+
+- **AI & Automation**
+  - Intelligent agents
+  - Workflow automation
+  - Applied machine learning (practical > theoretical)
+
+- **Systems Thinking**
+  - Clean architecture
+  - Long-term maintainability
+  - Business-aligned technical decisions
+
+---
+
+## Collaboration
+
+I collaborate selectively.
+
+I’m interested in:
+- Founders and operators building **real businesses**
+- Engineers who think in **systems, not just features**
+- Products that create **leverage, efficiency, or access**
+
+If the project doesn’t solve a meaningful problem or move the needle, I’m probably not the right fit.
+
+---
+
+## Reach Me
+
+- **Email:** [siyabonga@existence-klcorp.com](mailto:siyabonga@existence-klcorp.com)
+- **GitHub:** [@XSiya](https://github.com/XSiya)
+
+---
+
+> *Note to self:* You are still alive, act like it.
