@@ -1,4 +1,4 @@
-# llo, I’m Mushin (@XSiya)
+# Ollo, I’m Mushin (@XSiya)
 
 Founder • Builder • Engineer
 
